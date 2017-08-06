@@ -5,8 +5,11 @@
    que pequenas variações nas condições iniciais poderiam acarretar grandes diferenças na evolução do sistema. 
     
    As equações de Lorentz na forma simplifica:
+   
       dx/dt = s*( y - x )     
+      
       dy/dt = x*( r - z ) - y
+      
       dz/dt = x*y - b*z
 
    Dada uma condição inicial (chave inicial), podemos criptografar a mensagem misturando com a dinâmica caótica destas equações
