@@ -14,4 +14,4 @@
 
    Dada uma condição inicial (chave inicial), podemos criptografar a mensagem misturando com a dinâmica caótica destas equações
    diferenciais, tal que para descriptografar a mensgaem é necessário termos a mesma chave inicial, pois qualquer diferença não
-   retornamos a mensgaem original.
+   retornamos a mensagem original.
