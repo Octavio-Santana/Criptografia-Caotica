@@ -22,4 +22,4 @@
 
    Os arquivos com extensão ipython são ilustrativos e foi testado apenas na versão 2.7 do python. Para proposito de aplicação utilize apenas o arquivo com nome codificador.py.  
    
-   O arquivo exemplo.py ilustra bem como utilizar.
+   O arquivo exemplo_romeu.py ilustra bem como utilizar.
