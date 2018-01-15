@@ -1,4 +1,4 @@
-# Criptografia-Caotica
+# Criptografia Caótica
 
    Ao estudar o problema de 3 corpos Poincaré propos que um sistema de equações diferenciais determinístico pode ser imprevisível,
    apesar de não ser aceito pela comunidade cientifica de sua época. Somente quanto Lorentz ao estudar problemas atmosféricos
